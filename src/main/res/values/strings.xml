@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppLaSalle</string>
+
+    <string-array name="escolaridade_opcoes">
+        <item>Selecione a escolaridade</item>
+        <item>Fundamental completo</item>
+        <item>Fundamental incompleto</item>
+        <item>Médio completo</item>
+        <item>Médio incompleto</item>
+        <item>Superior completo</item>
+        <item>Superior incompleto</item>
+        <item>Outro</item>
+    </string-array>
+
+</resources>
